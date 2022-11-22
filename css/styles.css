@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=BhuTuka+Expanded+One&display=swap');
+body {
+    margin: 0;
+}
+
+#header {
+    height: 100vh;
+    background-image: url(../img/EL\ PLUGG\ 2.jpg);
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+
+#header h1 {
+    color: white;
+    margin: 0;
+    padding: 0 20%;
+    font-size: 50px;
+    text-shadow: black 20px;
+}
+
+#main {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+#main p {
+    font-size: 20px;
+}
+
+#main h1 {
+    font-size: 40px;
+}
+
+iframe {
+    height: 330px;
+    width: 100%;
+}
+
+#spoiler {
+    font-family: 'BhuTuka Expanded One', cursive;
+}
+
+img {
+    width: 100%;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
